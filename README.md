@@ -3,14 +3,13 @@
 </h1>
 
 ## <p align="center">Software Developer | Ethical Hacker</p>
-Hey, I'm <b>Xialios</b> - A lifelong learner and perpetual explorer!
+Hey, I'm <b>Dragkob</b> - A lifelong learner and perpetual explorer!
 
 ```javascript
 // A bit more about myself:
 
-const Xia = {
-  pronouns: ["He", "Him"],
-  code: ["HTML", "CSS", "JS", ".NET", "SQL", "JAVA", "C#", "Python"],
+const Dkob = {
+  code: ["SQL", "JAVA", "C#", "Python"],
   IDE: ["VS", "VSCode", "AndroidStudio", "Eclipse"],
   education: ["BS_ComputerScience", "MS_CyberSecurity_and_Networks"],
   interests: {
