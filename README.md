@@ -2,7 +2,7 @@
   <img src="https://github.com/Xialios/Xialios/blob/main/name.svg" alt="Xialios" />
 </h1>
 
-## <p align="center">Software Developer | Ethical Hacker</p>
+## <p align="center">CyberSec Consultant | Ethical Hacker</p>
 Hey, I'm <b>Dragkob</b> - A lifelong learner and perpetual explorer!
 
 ```javascript
