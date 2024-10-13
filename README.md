@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Xialios/Xialios/blob/main/name.svg" alt="Xialios" />
+  <img src="https://github.com/Dragkob/Dragkob/blob/main/name.svg" alt="Dragkob" />
 </h1>
 
 ## <p align="center">CyberSec Consultant | Ethical Hacker</p>
