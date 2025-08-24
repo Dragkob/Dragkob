@@ -2,7 +2,7 @@
   <img src="https://github.com/Dragkob/Dragkob/blob/main/name.svg" alt="Dragkob" />
 </h1>
 
-## <p align="center">CyberSec Consultant | Ethical Hacker</p>
+## <p align="center">CyberSecurity Consultant</p>
 Hey, I'm <b>Dragkob</b> - A lifelong learner and perpetual explorer!
 
 ```javascript
